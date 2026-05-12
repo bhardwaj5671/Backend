@@ -1,0 +1,16 @@
+{
+  "name": "fbackend",
+  "version": "1.0.0",
+  "description": "this is for backend practice",
+  "repository": {
+    "type": "git",
+    "url": "git init"
+  },
+  "license": "ISC",
+  "author": "love Bhardwaj",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  }
+}
